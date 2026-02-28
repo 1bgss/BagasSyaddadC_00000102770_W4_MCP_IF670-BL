@@ -1,3 +1,10 @@
+Hasil Preview Expo Go :
+![WhatsApp Image 2026-02-28 at 16 14 49](https://github.com/user-attachments/assets/463b7f36-b41b-467b-8487-1c30f9fdba94)
+
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
