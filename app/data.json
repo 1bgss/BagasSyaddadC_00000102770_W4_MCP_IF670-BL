@@ -1,0 +1,32 @@
+[
+    {
+        "name": "John Doe",
+        "email": "john@example.com",
+        "photo_url": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+        "photo_url": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+        "name": "Michael Lee",
+        "email": "michael@example.com",
+        "photo_url": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+        "name": "Andrew Garfield",
+        "email": "andrewbule@gmail.com",
+        "photo_url": "https://i.pinimg.com/736x/b8/f7/59/b8f759c6000aeafd1ba3c5f8b8ddd73b.jpg"
+    },
+    {
+        "name": "Thomas Muller",
+        "email": "thomasskibidi@gmail.com",
+        "photo_url": "https://i.pinimg.com/736x/17/60/d3/1760d3b47f7a4874908a3d405c01e405.jpg"
+    },
+    {
+        "name": "Islam Makhacev",
+        "email": "baurdakdaestan@gmail.com",
+        "photo_url": "https://i.pinimg.com/736x/fe/51/15/fe51153a94f6741cc98ac9b04baaf73c.jpg"
+    }
+]
